@@ -1,0 +1,312 @@
+.sticky{
+    
+
+  background: white;
+
+
+  
+  
+}
+.col-md-7 i{
+  color: #00bcd4
+}
+.col-md-5 i{
+  color: grey;
+  margin: 3px;
+  color: grey;
+  opacity: 0.4
+}
+.col-md-5 span{
+  float: right;
+  font-size: 15px
+}
+.col-md-5 i:hover{
+  opacity: 1;
+  color: #00bcd4
+}
+.col-md-10 i{
+  color: grey;
+  opacity: 0.4
+}
+.col-md-10 i:hover{
+  opacity: 1;
+  color: #00bcd4}
+  .navbar-toggle collapsed span{
+      color:white
+  }
+.dropdown:hover .dropdown-menu{
+      display: block;
+      transition: 0.7s
+  }
+  .navbar{
+      background: #00bcd4;
+      margin-top: 10px;
+      border: none;
+      padding-left: 50px;
+     margin-bottom: 0px;
+     border-radius: 0px
+  }
+  .dropdown a{
+     font-size: 15px;
+     color: white
+  }
+  .dropdown-toggle span{
+      color: white;
+      opacity: 0.5
+  }
+  .dropdown-toggle span:hover{
+      opacity: 1;
+      transition: 0.1s
+  }
+  .dropdown-toggle span:hover ul{
+      display: block
+  }
+  .dropdown-menu li{
+      color: grey;
+      opacity: 0.5;
+     margin-top: 10px
+  }
+
+  .dropdown-menu li:hover{
+      border-left: 2px solid #00bcd4;
+      transition: 0.3s;
+      opacity: 1}
+      .dropdown-toggle span{
+          text-transform: uppercase;
+          font-size: 15px;
+          font-family: 'Roboto', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+          
+      }
+      .dropdown-toggle span:hover{
+          background: #00bcd4;
+          opacity: 1.2
+      }
+    
+      .fixed1 {
+          position: fixed;
+          top:0; left:0;
+          width: 100%;
+      z-index: 4;
+      padding-top: 20px }
+      .sticky{
+          
+          width: 100%;
+          background: white
+      }
+      .about{
+          height: 500px;
+          background-image: url('about.jpg');
+          background-attachment: fixed;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          text-align: center
+      }
+      .about div{
+          margin-top: 150px
+
+      }
+      .cost2{
+        margin-top: 50px;
+    }
+    .progress1{
+        background: pink;
+        height: 3px
+    }
+    .progress-bar1{
+        background:#ff4081;
+        height: 3px;
+        
+    }
+    .statbar{
+        padding-top: 10px
+    }
+    .header5{
+        color: #00bcd4;
+    
+    }
+    .slidephoto{
+        height: 300px;
+        background-repeat: no-repeat;
+        background-size: cover
+    }
+    .slidephoto1{
+        background-image: url("watch.jpg")
+    }
+    .slidephoto2{
+        background-image: url("ipad.jpg")
+    }
+    .slidephoto3{
+        background-image: url("photo.jpg")
+    }
+    .slidephoto4{
+        background-image: url("clock.jpg")
+    }
+    .slidephoto5{
+        background-image: url("lll.jpg")
+    }
+    .slidephoto6{
+        background-image: url("photo55.jpg")
+    }
+    .slidephoto{
+        position: relative;
+    }
+    .uwag{
+        position: absolute;
+        bottom: 0px;
+        background-color: white;
+        left: 0;
+        width: 100%;
+        display: none;
+    }
+    .members{
+        
+          height: auto;
+        
+          background-color: white;
+      }
+      
+      .text11 {
+          text-align: center;
+          margin-top: 90px
+      
+      }
+      .text11 h4{
+          color: grey;margin-top: 25px
+      }
+      .text11 h2{
+          border-bottom: 1px solid #00bcd4
+      }
+      .photo{
+          position: relative;
+          
+      }
+      .membersname{
+          position: absolute;
+          bottom: 0px;
+       color:grey;
+          left: 15px;
+      }
+      .work{
+          margin-top: 50px;
+          color: grey;
+          box-shadow: -10px 12px 10px -15px
+      }
+      .work p{
+          padding-top: 20px
+      }
+      .work span i{
+          color: lightgray;
+          margin-left: 5px
+      }
+      .work span i:hover{
+          color: #00bcd4
+      }
+      .carousel-2{
+        
+          background-color: #00bcd4;
+          color: white;
+          
+      }
+      .carousel-2 .item{
+          padding-top: 50px;
+      }
+      .crs2{
+          width: 100%
+      }
+      .count{
+       
+          background-color: black;
+          min-height: 400px
+          
+      
+      }
+      .count .col-md-2{
+          margin-top: 100px
+      }
+     
+      .count span{
+      color: #00bcd4;
+      font-size: 70px
+      }
+      .count h3{
+          padding: 0;
+          margin: 0;
+          color: white
+      }
+      .about2{
+          background-attachment: fixed;
+          height: 500px;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          background-image: url('http://all-business.cmsmasters.net/wp-content/uploads/2015/06/Depositphotos_38570059_original.jpg');
+          text-align: center;
+          
+      }
+      .about2 div{
+          margin-top: 200px
+      }
+      .slide1{
+        margin-top: 20px
+    }
+    .carousel .col-md-3 {
+        
+        height:auto;
+        margin-left: 40px	
+        }
+        .bewinci{
+            margin-top: 60px
+        }
+        .lists i{
+            margin: 10px
+        }
+        footer li{
+            margin-top: 15px;
+            padding: 0;
+           color: white;
+            opacity: 0.4
+            
+        }
+        .form-group{
+           border-bottom: 1px solid grey;
+         background: none;
+           color: white;opacity: 0.5
+           
+        }
+        footer h3{
+           color: white;
+           border-bottom: 2px solid #00bcd4
+        }
+        .tabs span{
+           cursor: pointer;
+        }
+        footer{
+           background: black;
+           padding-top: 50px;
+           margin-top: 50px
+        }
+        footer li:hover{
+           opacity: 1;
+           color: white
+        }
+        .inputbtn{
+           
+         
+           color: white;
+        
+         height: 50px;
+         background: none;
+        font-size: 20px;
+         cursor: pointer;
+         width: 200px;
+         text-align: center;
+         padding-top: 10px;
+         opacity: 0.4;
+         border: none
+        
+        }
+        .inputbtn:hover{
+           background: #00bcd4;
+           opacity: 1
+        }
